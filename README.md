@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aakasheoran
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m working on a full stack app(share-places-app) right now
+- 👀 I’m interested in Full Stack development
+- 🌱 I’m currently learning Rust
+- 💞️ I’m working on building a cli application using Rust
 - 📫 Email me at aaksheoran@gmail.com
 
 <!---
